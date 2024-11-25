@@ -1,0 +1,4 @@
+vars,Parameter,Std. Err.,T-stat,P-value,Lower CI,Upper CI,Income
+treatment,23.451,0.5762,40.699,0.0,22.321,24.58,High
+treatment,20.01,0.3374,59.304,0.0,19.349,20.671,Medium
+treatment,16.753,0.5733,29.22,0.0,15.629,17.877,Low

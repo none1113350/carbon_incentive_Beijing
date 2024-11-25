@@ -1,0 +1,23 @@
+vars,Parameter,Std. Err.,T-stat,P-value,Lower CI,Upper CI,Gender
+treatment,21.291,0.4084,52.132,0.0,20.49,22.091,Female
+trip_all_lable_2,16.071,0.4058,39.6,0.0,15.276,16.867,Female
+trip_all_lable_3,15.566,0.4521,34.43,0.0,14.68,16.452,Female
+trip_all_lable_4,12.936,0.4979,25.983,0.0,11.96,13.912,Female
+trip_all_lable_5,10.53,0.5497,19.158,0.0,9.4528,11.607,Female
+trip_all_lable_6,8.3255,0.6067,13.723,0.0,7.1364,9.5146,Female
+trip_all_lable_7,5.37,0.6307,8.5142,0.0,4.1338,6.6062,Female
+avergae_travel_time_lable_2,-3.5668,0.7754,-4.6001,0.0,-5.0866,-2.0471,Female
+avergae_travel_time_lable_3,-5.5095,0.7763,-7.097,0.0,-7.031,-3.9879,Female
+avergae_travel_time_lable_4,-6.9796,0.7908,-8.8265,0.0,-8.5295,-5.4297,Female
+avergae_travel_time_lable_5,-8.9011,0.7766,-11.461,0.0,-10.423,-7.3789,Female
+treatment,19.564,0.3812,51.317,0.0,18.817,20.311,Male
+trip_all_lable_2,16.167,0.377,42.884,0.0,15.429,16.906,Male
+trip_all_lable_3,15.701,0.4221,37.202,0.0,14.874,16.529,Male
+trip_all_lable_4,12.96,0.4704,27.552,0.0,12.038,13.882,Male
+trip_all_lable_5,10.851,0.5222,20.781,0.0,9.8279,11.875,Male
+trip_all_lable_6,9.1821,0.5649,16.255,0.0,8.0749,10.289,Male
+trip_all_lable_7,5.8696,0.5866,10.006,0.0,4.7198,7.0193,Male
+avergae_travel_time_lable_2,-3.5714,0.9078,-3.9341,0.0001,-5.3507,-1.7921,Male
+avergae_travel_time_lable_3,-6.0081,0.9096,-6.6055,0.0,-7.7909,-4.2254,Male
+avergae_travel_time_lable_4,-7.396,0.9194,-8.0442,0.0,-9.1981,-5.5939,Male
+avergae_travel_time_lable_5,-9.1658,0.9122,-10.048,0.0,-10.954,-7.3779,Male
