@@ -12,7 +12,3 @@ This repository contains all the necessary data and scripts to recreate the visu
 
 All charts, data, and visualization reproduction processes in this repository may not be directly used, copied, or disseminated in other studies without the author's permission or proper citation. Please ensure proper attribution when utilizing this content.
 
-## License
-
-This project is licensed under the [Specify License Name]. See the LICENSE file for more details.
-
